@@ -2,7 +2,7 @@
 
 It is a place to securily store your information in cloud storage.
 
-- [@Frontend Url](https://github.com/DavidGoyal/75Hard-Backend.git)
+- [@Frontend Url](https://github.com/DavidGoyal/MedWanders)
 
 ## Installation
 
